@@ -1,13 +1,8 @@
 /*--- linktester.cpp --------------------------------------------------
   A program for testing class LinkedList.
- 
-  Written by:   Larry R. Nyhoff
-  Written for:  Lab Manual for ADTs, Data Structures, and Problem
-                Solving with C++, 2E
-
-                    Lab #5.1 and Projects 5.1
-   
-   Add your name here and other info requested by your instructor.
+  
+  Student Name: Nicol Gorostiaga
+  Course:1107
    
   ---------------------------------------------------------------------*/
 
